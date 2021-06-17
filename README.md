@@ -1,2 +1,2 @@
 # ani-info
-It is a anime catalog site
+It is ananime catalog site
